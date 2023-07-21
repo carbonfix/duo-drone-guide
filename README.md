@@ -20,7 +20,7 @@
 
 综合考虑， 推荐使用`Pixhawk`做为飞控，比如经典的Pixhawk 2.4.8版本
 
-<img src="pictures/pixhawk-2.4.8-01.png" alt="pixhawk-2.4.8-01.png" width="800">
+<img src="pictures/pixhawk-2.4.8-01.png" alt="pixhawk-2.4.8-01.png" width="500">
 
 Pixhawk 2.4.8是一款完全开源的飞控硬件，具有多种传感器和接口，包括加速度计、陀螺仪、磁力计、气压计、GPS、串口、CAN总线等，支持多种配置和应用场景，如多旋翼、固定翼和地面车辆等。
 
